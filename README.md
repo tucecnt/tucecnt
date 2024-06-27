@@ -1,16 +1,24 @@
-## Hi there 👋
+# Merhaba! Ben [İsmin] 👋
 
-<!--
-**tucecnt/tucecnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirme dünyasında tutkuyla çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Şu anda zorunlu yaz stajım üzerinde çalışıyorum.
+- 💻 Backend geliştirme, siber güvenlik, veri analizi ve yapay zeka konularında çalışıyorum.
+- ⚡ İlgi alanlarım: Ağ güvenliği, kriptoloji, dağıtık sistemler, makine öğrenimi ve büyük veri analizi.
+- 📫 Bana ulaşın: tucecnt@hotmail.com
+
+## 🛠 Kullandığım Teknolojiler
+
+- **Backend:** Python, Java
+- **Frontend:** JavaScript, React
+- **Veritabanı:** MySQL, PostgreSQL, MSSQL 
+- **Araçlar:** Git, Docker, Jenkins
+
+
+## 🌐 Sosyal Medya
+
+- [LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C5%9Fen-%C3%A7intu%C4%9Flu-b10b75233/)
+
+
