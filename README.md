@@ -11,8 +11,8 @@ Yazılım mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirme dün
 
 ## 🛠 Kullandığım Teknolojiler
 
-- **Backend:** Python, Java
-- **Frontend:** JavaScript, React
+- **Backend:** Python, Java, C++, C
+- **Frontend:** JavaScript, React, HTML & CSS, C#
 - **Veritabanı:** MySQL, PostgreSQL, MSSQL 
 - **Araçlar:** Git, Docker, Jenkins
 
