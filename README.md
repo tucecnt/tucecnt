@@ -1,4 +1,4 @@
-# Merhaba! Ben [İsmin] 👋
+# Merhaba! Ben Gülşen 👋
 
 Yazılım mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirme dünyasında tutkuyla çalışıyorum.
 
