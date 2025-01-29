@@ -1,6 +1,6 @@
 # Merhaba! Ben Gülşen 👋
 
-Yazılım mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirme dünyasında tutkuyla çalışıyorum.
+Yazılım mühendisliği 4. sınıf öğrencisiyim ve yazılım geliştirme dünyasında tutkuyla çalışıyorum.
 
 ## 🚀 Hakkımda
 
