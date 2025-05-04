@@ -4,7 +4,6 @@ Yazılım mühendisliği 4. sınıf öğrencisiyim ve yazılım geliştirme dün
 
 ## 🚀 Hakkımda
 
-- 🌱 Şu anda zorunlu yaz stajım üzerinde çalışıyorum.
 - 💻 Backend geliştirme, siber güvenlik, veri analizi ve yapay zeka konularında çalışıyorum.
 - ⚡ İlgi alanlarım: Ağ güvenliği, kriptoloji, dağıtık sistemler, makine öğrenimi ve büyük veri analizi.
 - 📫 Bana ulaşın: tucecnt@hotmail.com
