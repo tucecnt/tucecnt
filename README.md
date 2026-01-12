@@ -1,6 +1,6 @@
 # Merhaba! Ben Gülşen 👋
 
-Yazılım mühendisliği 4. sınıf öğrencisiyim ve yazılım geliştirme dünyasında tutkuyla çalışıyorum.
+Yazılım mühendisliği bölümünden 3.48 ortalama ile mezun oldum ve yazılım geliştirme dünyasında tutkuyla çalışıyorum.
 
 ## 🚀 Hakkımda
 
